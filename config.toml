@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "https://www.ayzo.be"
+baseurl = "/"
 title = "Ayzo"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
