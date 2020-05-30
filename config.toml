@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "/"
+baseurl = "https://www.ayzo.be"
 title = "Ayzo"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
@@ -10,15 +10,15 @@ theme = "hugo-elate-theme"
 
   # Meta
   author = ""
-  description = ""
-  email = ""
+  description = "Microsoft Dynamics 365 Services Business Central Digital Transformation Training Artificial Intelligence Mixed Reality"
+  email = "info@ayzo.be"
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
   googleMapsApiKey = ""
 
   # Navigation
   [params.navigation]
-    brand = "Elate"
+    brand = "Ayzo"
     home = "Home"
     work = "Work"
     testimonials = "Testimonials"
