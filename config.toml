@@ -11,7 +11,7 @@ theme = "hugo-elate-theme"
   # Meta
   author = ""
   description = "Microsoft Dynamics 365 Services Business Central Digital Transformation Training Artificial Intelligence Mixed Reality"
-  email = "info@ayzo.be"
+  email = "hello@ayzo.be"
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
   googleMapsApiKey = ""
@@ -24,6 +24,7 @@ theme = "hugo-elate-theme"
     testimonials = "Testimonials"
     services = "Services"
     about = "About"
+    careers = "Careers"
     contact = "Contact"
 
     # You can add custom links before or after the default links
