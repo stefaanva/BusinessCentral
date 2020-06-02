@@ -43,7 +43,7 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "Lead your business with one solution."
+    title = "One platform for your business"
     subtitle = 'We specialise in building Microsoft Dynamics Solutions <br>for small and midsize companies.'
  
   # Intro section
