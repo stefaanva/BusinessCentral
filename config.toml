@@ -24,7 +24,6 @@ theme = "hugo-elate-theme"
     testimonials = "Testimonials"
     services = "Services"
     about = "About"
-    careers = "Careers"
     contact = "Contact"
 
     # You can add custom links before or after the default links
@@ -44,8 +43,8 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "Safe money and grow your business with one digital solution."
-    subtitle = 'We specialize in building Microsoft Dynamics Solutions for small and midsize companies. <br> A Solution that meet your business needs and help your business become more efficient.'
+    title = "Lead your business with one solution."
+    subtitle = 'We specialise in building Microsoft Dynamics Solutions <br>for small and midsize companies.'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
