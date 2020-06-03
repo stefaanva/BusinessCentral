@@ -44,7 +44,7 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "One digital platform for your business"
-    subtitle = 'We specialize in deploying <b>Microsoft Dynamics</b> Solutions <br>for <b>small</b> and <b>midsize</b> companies.'
+    subtitle = 'We specialize in building <b>Microsoft Dynamics</b> Solutions <br>for <b>small</b> and <b>midsize</b> companies.'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
